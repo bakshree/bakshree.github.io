@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bakshree Mishra"
 title_separator          : "-"
 name                     : &name "Bakshree Mishra"
-description              : &description ""
+description              : &description "Bakshree Mishra"
 url                      : https://bakshree.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bakshree/bakshree.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "false"
 facebook:
-  username               : bakshree
+  username               : "bakshree"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bakshree Mishra"
   avatar           : "profile.png"
-  bio              : "Machine Learning Engineer"
+  bio              : "Machine Learning Engineer, Intel Corporation"
   location         : "Bangalore, IN"
-  employer         : "Intel Corporation"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OcKLnRUAAAAJ"
   email            :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "bakshree"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bakshree"
+  twitter          : #"bakshree"
   vine             :
   weibo            :
   xing             :
