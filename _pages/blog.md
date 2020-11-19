@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
-title: "Blogging"
+title: "Blog Posts"
 excerpt: "Blog - Bakshree Mishra"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,5 @@ redirect_from:
 ---
 
 I blog erratically yet enthusiastically!
+
 You can check out my blog at: [Link](https://bakshree.wordpress.com/). 
