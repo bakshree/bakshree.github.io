@@ -28,6 +28,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> Dec. 2020:</b> </td> <td> Named as one of the Top 50 Intel India employee volunteers of 2019! Thank you! </td> </tr>
 <tr><td><b> Dec. 2019:</b> </td> <td> Received Intel Departmental Recognition Award for category Spirit of HSPE! Thank you! </td> </tr>
 <tr><td><b> Nov. 2019:</b> </td> <td> Paper on our work on hardware acceleration of ML and CV algorithms got accepted at EAI Endorsed Transactions on Cloud Systems! <a href="https://eudl.eu/pdf/10.4108/eai.5-11-2019.162597">[Paper]</a> </td> </tr>
 <tr><td> <b> Sept. 2019:</b> </td> <td> Presented our paper on "Edge Acceleration of Computer Vision and Deep Learning Algorithms on the Edge using OpenCL" at <a href="https://enotice.vtools.ieee.org/public/46772">IEEE WinTechCon 2019</a>, Bangalore! Talk slides can be found <a href="https://bakshree.github.io/files/talk_ieeewintechcon2019.pdf">here</a>. </td> </tr>
