@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bakshree Mishra and I'm currently working as a Machine Learning Engineer at Intel, where I work on analyzing and accelerating ML algorithms. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. I am interested in understanding the underlying computational needs of algorithms and how to best address them.
+Hi! I am Bakshree Mishra and I am a 1st year PhD Student in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations.
 
-I completed my undergrad at College of Engineering and Technology, Bhubaneswar and my Masters from National Institute of Technology, Rourkela, majoring in Computer Science. While at NIT Rourkela I spent an incredible year at Intel working on real-time computer vision-based Pedestrian Detection Systems under the supervision of [Prof. Bansidhar Majhi](https://www.nitrkl.ac.in/FProfile.aspx?bmajhi). 
+Prior to this, I worked as a Machine Learning Engineer as well as IP Logic Design Engineer at Intel, where I worked on analyzing ML algorithms and accelerating them in hardware. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. On the hardware side, I have owned and designed modules going into both FPGA and SOCs.
+
+I completed my undergrad at College of Engineering and Technology, Bhubaneswar and my Masters from National Institute of Technology, Rourkela, majoring in Computer Science. My Masters research on Real-time computer vision-based Pedestrian Detection Systems was conducted under the supervision of [Prof. Bansidhar Majhi](https://www.nitrkl.ac.in/FProfile.aspx?bmajhi). 
 
 
 ---
