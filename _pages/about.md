@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bakshree Mishra and I am a 1st year PhD Student in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations.
+Hi! I am Bakshree Mishra and I am a 1st year PhD Student in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
 
-Prior to this, I worked as a Machine Learning Engineer as well as IP Logic Design Engineer at Intel, where I worked on analyzing ML algorithms and accelerating them in hardware. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. On the hardware side, I have owned and designed modules going into both FPGA and SOCs.
+Prior to this, I worked as a Machine Learning Engineer + IP Logic Design Engineer at Intel, where I worked on analyzing ML algorithms and accelerating them in hardware. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. On the hardware side, I have owned and designed modules going into both FPGA and SOCs.
 
 I completed my undergrad at College of Engineering and Technology, Bhubaneswar and my Masters from National Institute of Technology, Rourkela, majoring in Computer Science. My Masters research on Real-time computer vision-based Pedestrian Detection Systems was conducted under the supervision of [Prof. Bansidhar Majhi](https://www.nitrkl.ac.in/FProfile.aspx?bmajhi). 
 
@@ -30,6 +30,11 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> May 2022:</b> </td> <td> Attended the <a href="https://adacenter.org">ADA Symposium 2022</a> at University of Michigan, Ann Arbor. </td> </tr>
+<tr><td><b> Apr 2022:</b> </td> <td> Got selected to attend the Grad Cohort Women workshop organized by <a href="https://cra.org">Computing Research Association</a>, where I got to interact with peers and leaders in Computer Science Research. </td> </tr>
+<tr><td><b> Aug. 4 2021:</b> </td> <td> Last day at Intel, Bangalore. Thank you for a great learning experience! Also excited to share that I will be joining the University of Illinois, Urbana Champaign later this month to pursue a PhD in Computer Science! </td> </tr>
+<tr><td><b> Jun. 2021:</b> </td> <td> Filed two patents applications with co-inventors at Intel! Pub.Nos.: <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OcKLnRUAAAAJ&authuser=1&citation_for_view=OcKLnRUAAAAJ:hMsQuOkrut0C">US2021/0319022A1</a> and <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OcKLnRUAAAAJ&authuser=1&citation_for_view=OcKLnRUAAAAJ:ILKRHgRFtOwC">US2021/031832A1</a> </td> </tr>
+<!-- <tr><td><b> Mar. 2021:</b> </td> <td> Presented poster and paper at Intel HSPE Techbuzz '21 (Intel-internal conference), and won best paper in track! Thank you! </td> </tr> -->
 <tr><td><b> Dec. 2020:</b> </td> <td> Named as <a href="https://www.linkedin.com/posts/bakshree_weareintel-intelinvolved-intelindia-activity-6746644955068014592-SBcf/">one of the Top 50</a> Intel India employee volunteers of 2019! Thank you! </td> </tr>
 <tr><td><b> Dec. 2019:</b> </td> <td> Received Intel Departmental Recognition Award for category Spirit of HSPE! Thank you! </td> </tr>
 <tr><td><b> Nov. 2019:</b> </td> <td> Paper on our work on hardware acceleration of ML and CV algorithms got accepted at EAI Endorsed Transactions on Cloud Systems! <a href="https://eudl.eu/pdf/10.4108/eai.5-11-2019.162597">[Paper]</a> </td> </tr>
