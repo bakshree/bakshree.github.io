@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bakshree Mishra and I am a rising 2nd year PhD Student in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
+Hi! I am Bakshree Mishra and I am a 2nd year PhD Student in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
 
 Prior to this, I worked as a Machine Learning Engineer + IP Logic Design Engineer at Intel, where I worked on analyzing ML algorithms and accelerating them in hardware. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. On the hardware side, I have owned and designed modules going into both FPGA and SOCs.
 
