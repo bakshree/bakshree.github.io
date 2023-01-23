@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bakshree Mishra and I am a 2nd year PhD Student in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
+Hi! I am Bakshree Mishra and I am a 2nd year PhD Candidate in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
 
 Prior to this, I worked as a Machine Learning Engineer + IP Logic Design Engineer at Intel, where I worked on analyzing ML algorithms and accelerating them in hardware. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. On the hardware side, I have owned and designed modules going into both FPGA and SOCs.
 
@@ -30,6 +30,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> Nov 2022:</b> </td> <td> I passed my oral Qualifying Examinations Fall '22! Many thanks to my advisor and my colleagues in my lab and research group for their guidance and support! </td> </tr>
+<tr><td><b> Sep 2022:</b> </td> <td> I was listed among <b><a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent">Teachers Ranked as Excellent</a><b> for my stint as a TA for <a href="https://courses.engr.illinois.edu/cs225/sp2022/">CS225 (Introduction to Data Structures and Algorithms with C++)</a>. Thank you! </a> </td> </tr>
 <tr><td><b> Jun 2022:</b> </td> <td> Our patent application on "Graph Reordering and Tiling Techniques", filed along with my amazing colleagues+co-inventors at Intel, Bangalore, got published! <a href= "https://patentimages.storage.googleapis.com/13/89/39/fbc97fe1da0e6d/US20220156322A1.pdf">[Pub. No. US202/015632A1]</a> </td> </tr>
 <tr><td><b> May 2022:</b> </td> <td> Attended the <a href="https://adacenter.org">ADA Symposium 2022</a> at University of Michigan, Ann Arbor. </td> </tr>
 <tr><td><b> Apr 2022:</b> </td> <td> Attended the <a href="https://cra.org/cra-wp/grad-cohort-for-women/">Grad Cohort - Women</a> workshop organized by <a href="https://cra.org">Computing Research Association</a>, where I got to interact with peers and leaders in Computer Science Research. </td> </tr>
