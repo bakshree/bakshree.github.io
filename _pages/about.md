@@ -30,6 +30,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> June 2024:</b> </td> <td> Our work, "Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism", got accepted into PACT 2024! That's over 2 years hard work, systems design and research on actual hardware. Many congratulations to my co-authors and especially grateful for my advisor's faith in our work!</td> </tr>
+<tr><td><b> May 2024:</b> </td> <td> I will be interning with the RAD team at Bellevue this summer! I am excited to work with John Alsop, Michael Boyer and Mike Ignatowski on tackling interesting research problems!</td> </tr>
 <tr><td><b> Nov 2022:</b> </td> <td> I passed my oral Qualifying Examinations Fall '22! Many thanks to my advisor and my colleagues in my lab and research group for their guidance and support! </td> </tr>
 <tr><td><b> Sep 2022:</b> </td> <td> I was listed among <b><a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent">Teachers Ranked as Excellent</a></b> for my stint as a TA for <a href="https://courses.engr.illinois.edu/cs225/sp2022/">CS225 (Introduction to Data Structures and Algorithms with C++)</a>. Thank you!</td> </tr>
 <tr><td><b> Jun 2022:</b> </td> <td> Our patent application on "Graph Reordering and Tiling Techniques", filed along with my amazing colleagues+co-inventors at Intel, Bangalore, got published! <a href= "https://patentimages.storage.googleapis.com/13/89/39/fbc97fe1da0e6d/US20220156322A1.pdf">[Pub. No. US202/015632A1]</a> </td> </tr>
