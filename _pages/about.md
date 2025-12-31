@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bakshree Mishra and I am a 4th year PhD Candidate in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
+Hi! I am Bakshree Mishra and I am a 5th year PhD Candidate in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
 
 I am highly interested in hardware-software for emerging workloads in areas including, but not restricted to, extended reality (XR) and machine learning (MLSys). My recent research has involved evaluating and addressing bottlenecks in fine-grained acceleration of workloads in various domains (XR, autonomous driving and ML) using on-chip heterogeneous accelerators in shared memory SoCs. 
 
@@ -32,6 +32,9 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> Dec 2025:</b> </td> <td> I completed the <a href="https://cra.org/ur2phd/for-graduate-students/graduate-student-mentor-training-course">CRA UR2PhD Graduate Student Mentor Training Course</a> to learn how to be a better mentor, and I learnt a lot. I highly recommend the course!</td> </tr>
+<tr><td><b> July 2025:</b> </td> <td> One of the patent applications I filed with my colleagues at Intel, Register fault detector, was granted US Patent No. 12,373,295. Congratulations to my colleagues and thank you for teaching me so much in this project!</td> </tr>
+<tr><td><b> May 2025:</b> </td> <td> I am returning to AMD RAD, Bellevue, for a second summer internship!</td> </tr>
 <tr><td><b> June 2024:</b> </td> <td> Our work, "Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism", got accepted into PACT 2024! That's over 2 years hard work, systems design and research on actual hardware. Many congratulations to my co-authors and especially grateful for my advisor's faith in our work!</td> </tr>
 <tr><td><b> May 2024:</b> </td> <td> I will be interning with the RAD team at Bellevue this summer! I am excited to work with John Alsop, Michael Boyer and Mike Ignatowski on tackling interesting research problems!</td> </tr>
 <tr><td><b> Nov 2022:</b> </td> <td> I passed my oral Qualifying Examinations Fall '22! Many thanks to my advisor and my colleagues in my lab and research group for their guidance and support! </td> </tr>
