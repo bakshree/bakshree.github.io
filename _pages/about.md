@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Bakshree Mishra and I am a 5th year PhD Candidate in the Department of Computer Science at the University of Illinois, Urbana-Champaign. My primary area of interest is in computer architecture for next-gen algorithms and computations, and I work under the supervision of [Prof. Sarita Adve](https://sadve.cs.illinois.edu).
+Hi! I am Bakshree Mishra, a final-year PhD candidate in the Department of Computer Science at the University of Illinois Urbana-Champaign, advised by [Prof. Sarita Adve](https://sadve.cs.illinois.edu). I work on computer architecture and ML systems.
 
-I am highly interested in hardware-software for emerging workloads in areas including, but not restricted to, extended reality (XR) and machine learning (MLSys). My recent research has involved evaluating and addressing bottlenecks in fine-grained acceleration of workloads in various domains (XR, autonomous driving and ML) using on-chip heterogeneous accelerators in shared memory SoCs. 
+**I am on the job market** for full-time research and engineering roles starting in 2027. Here is my [CV](/files/Bakshree_CV.pdf).
 
-Prior to this, I worked as a Machine Learning Engineer + IP Logic Design Engineer at Intel, where I worked on analyzing ML algorithms and accelerating them in hardware. I have created custom architectures for CNNs as well as traditional ML classifiers, as well as created a Context Aware Voice/NLP agent. On the hardware side, I have owned and designed modules going into both FPGA and SOCs.
+My research focuses on designing scalable and energy-efficient systems for rapidly evolving application domains, especially artificial intelligence (AI) and extended reality (XR). Traditional approaches to accelerating critical computation with hardware specialization rely on stable adoption of algorithms given the long life-cycle of chip design; however, state-of-the-art algorithms change rapidly in these domains. My work seeks to answer how to build and repurpose scalable systems that can enable users to run workloads across various domains despite changes to algorithms. I investigate this question in three directions:
 
-I completed my undergrad at College of Engineering and Technology, Bhubaneswar and my Masters from National Institute of Technology, Rourkela, majoring in Computer Science. My Masters research on Real-time computer vision-based Pedestrian Detection Systems was conducted under the supervision of [Prof. Bansidhar Majhi](https://www.nitrkl.ac.in/FProfile.aspx?bmajhi). 
+* **Composable accelerators:** trading off the degree of hardware specialization by composing smaller accelerators in a shared-memory SoC ([Mozart, PACT 2024](https://doi.org/10.1145/3656019.3676896)).
+* **Scaling LLM inference on 3D-stacked GPUs:** identifying and addressing network-on-chip (NoC) bottlenecks in large 3D-stacked GPU-memory architectures, in collaboration with AMD Research.
+* **Distributed edge inference:** reusing accelerators across edge devices as a distributed system to improve the latency and energy efficiency of local inference (preliminary results at [MLArchSys 2025](/talks/mlarchsys_2025)).
+
+My ongoing work brings these directions together to orchestrate multiple AI models across edge and cloud.
+
+Before my PhD, I worked at Intel in Bangalore, first as a Graduate Technical Intern and then as a Machine Learning Engineer and an IP Logic Design Engineer. I designed FPGA accelerators for computer vision and ML algorithms, co-designed accelerators for recommender systems and graph neural networks, and designed front-end RTL for SoC IPs. During my PhD, I have also worked with AMD Research in Bellevue (2024 and 2025) on data movement and LLM inference in 3D-stacked GPU-memory architectures.
+
+I received my Master's in Computer Science from the National Institute of Technology, Rourkela, where my research on real-time pedestrian detection systems was advised by [Prof. Bansidhar Majhi](https://www.nitrkl.ac.in/FProfile.aspx?bmajhi), and my undergraduate degree from the Odisha University of Technology and Research (formerly College of Engineering and Technology), Bhubaneswar.
 
 
 ---
@@ -32,11 +40,15 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td><b> Jan 2026:</b> </td> <td> I passed my Preliminary Examination! Many thanks to my advisor, my committee, and my research group for their guidance and support!</td> </tr>
 <tr><td><b> Dec 2025:</b> </td> <td> I completed the <a href="https://cra.org/ur2phd/for-graduate-students/graduate-student-mentor-training-course">CRA UR2PhD Graduate Student Mentor Training Course</a> to learn how to be a better mentor, and I learnt a lot. I highly recommend the course!</td> </tr>
+<tr><td><b> Aug 2025:</b> </td> <td> I am continuing with AMD Research part-time as a Research Associate through November 2025!</td> </tr>
 <tr><td><b> July 2025:</b> </td> <td> One of the patent applications I filed with my colleagues at Intel, Register fault detector, was granted US Patent No. 12,373,295. Congratulations to my colleagues and thank you for teaching me so much in this project!</td> </tr>
+<tr><td><b> June 2025:</b> </td> <td> Gave an oral presentation on <a href="/talks/mlarchsys_2025">Minstrel: Application-Aware SLM Inference Optimization on Edge Devices</a> at the <a href="https://sites.google.com/view/mlarchsys/isca-2025">Workshop on ML for Computer Architecture and Systems (MLArchSys)</a>, co-located with ISCA 2025!</td> </tr>
 <tr><td><b> May 2025:</b> </td> <td> I am returning to AMD RAD, Bellevue, for a second summer internship!</td> </tr>
-<tr><td><b> June 2024:</b> </td> <td> Our work, "Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism", got accepted into PACT 2024! That's over 2 years hard work, systems design and research on actual hardware. Many congratulations to my co-authors and especially grateful for my advisor's faith in our work!</td> </tr>
+<tr><td><b> June 2024:</b> </td> <td> Our work, "Taming the Acceleration Tax: Enabling New Opportunities for Fine-Grained, Disaggregated Accelerator-Level Parallelism", got accepted into PACT 2024 (published as <a href="https://doi.org/10.1145/3656019.3676896">Mozart: Taming Taxes and Composing Accelerators with Shared-Memory</a>)! That's over 2 years hard work, systems design and research on actual hardware. Many congratulations to my co-authors and especially grateful for my advisor's faith in our work!</td> </tr>
 <tr><td><b> May 2024:</b> </td> <td> I will be interning with the RAD team at Bellevue this summer! I am excited to work with John Alsop, Michael Boyer and Mike Ignatowski on tackling interesting research problems!</td> </tr>
+<tr><td><b> Feb 2024:</b> </td> <td> Our paper on a 12nm Linux-SMP-capable RISC-V SoC with 14 accelerator types, a multi-institution collaboration, appeared at ISSCC 2024! <a href="https://ieeexplore.ieee.org/document/10454572">[Paper]</a></td> </tr>
 <tr><td><b> Nov 2022:</b> </td> <td> I passed my oral Qualifying Examinations Fall '22! Many thanks to my advisor and my colleagues in my lab and research group for their guidance and support! </td> </tr>
 <tr><td><b> Sep 2022:</b> </td> <td> I was listed among <b><a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent">Teachers Ranked as Excellent</a></b> for my stint as a TA for <a href="https://courses.engr.illinois.edu/cs225/sp2022/">CS225 (Introduction to Data Structures and Algorithms with C++)</a>. Thank you!</td> </tr>
 <tr><td><b> Jun 2022:</b> </td> <td> Our patent application on "Graph Reordering and Tiling Techniques", filed along with my amazing colleagues+co-inventors at Intel, Bangalore, got published! <a href= "https://patentimages.storage.googleapis.com/13/89/39/fbc97fe1da0e6d/US20220156322A1.pdf">[Pub. No. US202/015632A1]</a> </td> </tr>
