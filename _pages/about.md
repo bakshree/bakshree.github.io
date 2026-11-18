@@ -15,8 +15,8 @@ Hi! I am Bakshree Mishra, a final-year PhD candidate in the Department of Comput
 My research focuses on designing scalable and energy-efficient systems for rapidly evolving application domains, especially artificial intelligence (AI) and extended reality (XR). Traditional approaches to accelerating critical computation with hardware specialization rely on stable adoption of algorithms given the long life-cycle of chip design; however, state-of-the-art algorithms change rapidly in these domains. My work seeks to answer how to build and repurpose scalable systems that can enable users to run workloads across various domains despite changes to algorithms. I investigate this question in three directions:
 
 * **Composable accelerators:** trading off the degree of hardware specialization by composing smaller accelerators in a shared-memory SoC ([Mozart, PACT 2024](https://doi.org/10.1145/3656019.3676896)).
-* **Scaling LLM inference on 3D-stacked GPUs:** identifying and addressing network-on-chip (NoC) bottlenecks in large 3D-stacked GPU-memory architectures, in collaboration with AMD Research.
-* **Distributed edge inference:** reusing accelerators across edge devices as a distributed system to improve the latency and energy efficiency of local inference (preliminary results at [MLArchSys 2025](/talks/mlarchsys_2025)).
+* **Scaling LLM inference on 3D-stacked GPUs:** identifying and addressing network-on-chip (NoC) bottlenecks in large 3D-stacked GPU-memory architectures, in collaboration with AMD Research (under review).
+* **Distributed edge inference:** reusing accelerators across edge devices as a distributed system to improve the latency and energy efficiency of local inference (preliminary results at [MLArchSys 2025](/talks/mlarchsys_2025); full paper under review).
 
 My ongoing work brings these directions together to orchestrate multiple AI models across edge and cloud.
 
